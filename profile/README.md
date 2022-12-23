@@ -16,6 +16,6 @@
 
 ---
 
-Slashbase is an open-source in-browser collaborative database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write, run and save queries, create charts, right from your browser. Supports PostgreSQL and MongoDB.
+Slashbase is an open-source in-browser collaborative database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write & run queries, create charts and share queries with your team, right from your browser. Supports PostgreSQL and MongoDB.
 
 For collaborative cloud version visit: [slashbase.com](https://slashbase.com)
