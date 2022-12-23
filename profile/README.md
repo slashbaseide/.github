@@ -2,10 +2,10 @@
   <a href="https://slashbase.com" alt="Slashbase">
     <img src="https://slashbase.com/github-logo.png" alt="Slashbase" width="220">
   </a>
-  <p align="center">The open-source in-browser database IDE for your dev/data workflows.</p>
+  <p align="center">The open-source in-browser collaborative database IDE for your dev/data workflows.</p>
 </p>
 <p align="center">
-  <a href="https://slashbase.com/install" rel="dofollow"><strong>Get Started »</strong></a>
+  <a href="https://slashbase.com/earlyaccess" rel="dofollow"><strong>Get Early Access »</strong></a>
   <br/><br/>
   <a href="https://discord.gg/U6fXgm3FAX">Join Discord Community</a>
   ·
@@ -16,6 +16,6 @@
 
 ---
 
-Slashbase is an open-source in-browser database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write, run and save queries, create charts, right from your browser. Supports PostgreSQL and MongoDB.
+Slashbase is an open-source in-browser collaborative database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write, run and save queries, create charts, right from your browser. Supports PostgreSQL and MongoDB.
 
 For collaborative cloud version visit: [slashbase.com](https://slashbase.com)
