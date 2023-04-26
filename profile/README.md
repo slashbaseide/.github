@@ -9,7 +9,7 @@
   <br/><br/>
   <a href="https://discord.gg/U6fXgm3FAX">Join Discord</a>
   ·
-  <a href="https://slashbase.bip.wiki">Explore docs</a>
+  <a href="https://docs.slashbase.com">Explore docs</a>
   ·
   <a href="https://slashbase.com/updates">Read Updates</a>
 </p>
@@ -18,4 +18,8 @@
 
 Slashbase is an open-source modern database IDE for your dev/data workflows. Use Slashbase to connect to any of your database, browse data and schema, write & run queries, create charts. Supports MySQL, PostgreSQL and MongoDB.
 
-For collaborative cloud version visit: [slashbase.com](https://slashbase.com)
+It comes in two types of build:
+1. Desktop IDE.
+2. Server IDE.
+
+Checkout [docs.slashbase.com] for more information.
