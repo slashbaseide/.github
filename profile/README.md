@@ -22,4 +22,4 @@ It comes in two types of build:
 1. Desktop IDE.
 2. Server IDE.
 
-Checkout [docs.slashbase.com] for more information.
+Checkout [docs.slashbase.com](https://docs.slashbase.com) for more information.
